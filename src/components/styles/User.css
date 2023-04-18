@@ -1,0 +1,31 @@
+
+h3{
+    padding-top : 1.5rem;
+    padding-left : 5%;
+    font-family: 'Arimo', sans-serif;
+    font-weight: bolder;
+    font-stretch: expanded;
+    padding-bottom: 1rem;
+}
+
+.inner-block{
+
+    width : 80%;
+
+}
+
+.Key{
+    padding-top:3%;
+    background-color: #f9f3e6;
+    padding-left:1rem;
+    font-family: 'Exo 2', sans-serif;
+    font-size:medium;
+    font-weight: bolder;
+}
+
+.Value{
+    padding-top:3%;
+    background-color: #c2f0fc;
+    font-family: 'Exo 2', sans-serif;
+    font-size:medium;
+}

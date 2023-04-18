@@ -1,0 +1,32 @@
+.navbar-custom{
+    background: rgb(2,0,36);
+background: linear-gradient(80deg, rgba(2,0,36,1) 0%, rgba(240,249,41,0.927608543417367) 0%, rgba(0,212,255,1) 100%);
+    
+}
+
+
+
+.navbar-brand{
+    padding-left: 10%;
+    padding-right: 35%;
+}
+
+.nav-link{
+    color : rgb(0, 0, 0);
+    font-weight:bolder;
+    font-family: 'Kanit', sans-serif;
+}
+
+
+.nav-item{
+    padding-right: 5%;
+}
+
+.header{
+    font-family: 'Aclonica', sans-serif;
+    font-weight:bolder
+}
+
+.icon{
+    size: 5rem;
+}

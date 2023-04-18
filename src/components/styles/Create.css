@@ -1,0 +1,43 @@
+#form{
+    align-items: center;
+    text-align: center;
+}
+
+.goback{
+    padding-top:2%;
+}
+
+.block-create{
+
+    width : 50%;
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+
+    border : 1px solid;
+    border-style : groove;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px 0px, rgba(0, 0, 0, 0.22) 0px 15px 12px 0px;
+    border-radius: 1rem;
+}
+
+.form-label{
+    margin-top: 5%;
+    margin-bottom:3%;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.btn-create{
+    margin-top : 4%;
+    margin-bottom: 4%;
+    margin-right:30%;
+    padding-left: 35%;
+    padding-right:40%;
+}
+h1{
+    margin-bottom:1rem;
+    padding-left: 3%;
+}
+h5{
+    padding-left: 3%;
+}
+

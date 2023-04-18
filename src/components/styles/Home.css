@@ -1,0 +1,39 @@
+
+
+.pic{
+    height: 80%;
+    margin-top: 2%;
+    border-radius: 2rem;
+}
+.row{
+    margin-top: 1rem;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.block{
+    margin-top: 1rem;
+    margin-left : 2rem;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    padding-left: 1rem;
+    padding-right : 1rem;
+    font-size:large;
+    color: black;
+    font-weight:bolder;
+    font-style: italic;
+}
+
+h4{
+    font-family: 'Kanit', sans-serif;
+}
+
+button{
+    margin-left : 10%;
+    font-family: 'Kanit', sans-serif;
+}
+
